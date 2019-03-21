@@ -9,7 +9,7 @@ Performing Data Science: A Musician's Perspective | Leondra James | [>](#Perform
 Future: Friendly Parallel and Distributed Processing in R for Everyone | Henrik Bengtsson | [>](#Future-Friendly-Parallel-and-Distributed-Processing-in-R-for-Everyone)
 From correlation to causation: measuring ad effectiveness at scale | Tamara Greasby | [>](#From-correlation-to-causation:-measuring-ad-effectiveness-at-scale)
 Multiple Response (Multivariate) Regression models in R | Cesar Acosta-Mejia | [>](#Multiple-Response-Multivariate-Regression-models-in-R)
-Pipes or Brackets: The Similarities and Differences between Dplyr and Data.Table and the Power of Un | Jeremy Guinta, Amy Linehan | [>](#Pipes-or-Brackets-The-Similarities-and-Differences-between-Dplyr-and-Data.Table-and-the-Power-of-Un)
+Pipes or Brackets: The Similarities and Differences between Dplyr and Data.Table and the Power of Un | Jeremy Guinta, Amy Linehan | [>](#Pipes-or-Brackets-The-Similarities-and-Differences-between-Dplyr-and-DataTable-and-the-Power-of-Un)
 ---
 
 ## Using Data Science to solve Platform Problems at TrueCar
@@ -108,7 +108,7 @@ Using a two-response example, we show that if the predictions are positively (ne
 overprediction of one response may lead to overprediction (underprediction) of the other response.
 In this example, we use data visualization to show how the responses are related to the common set of predictors.
 
-## Pipes or Brackets: The Similarities and Differences b/w Dplyr and Data.Table and the Power of Un 
+## Pipes or Brackets: The Similarities and Differences between Dplyr and Data.Table and the Power of Un 
 #### Jeremy Guinta, Amy Linehan
 ##### Data Scientist; Litigation Consultant; Statistical Expert at Ankura Consulting
 In the world of R programming, dplyr consistently emerges as a popular, successful and common way of coding for both new and experienced R programmers. Neat, organized and versatile, dplyr provides anyone from a beginning programmer to an advanced professional a wide range of functionality to organize, clean, and analyze data. However, at times, especially if working with data containing millions of observations, there is another alternative to dplyr. Providing many of the same benefits as dplyr, data.table is also consistently a faster, more memory efficient and compact way of programming in the R language. Many experienced R programmers rely on either dplyr or data.table to advance and improve their analyses over base R. However, understanding and using the packages interchangeably, together and understanding when an analysis calls for one package over the other enables programmers to take their work to the next level. Using both dplyr and data.table in a career, project, or even together in a single script provides numerous opportunities for more efficient, clean and organized analyses. Learn from industry experts the pros and cons of both data.table and dplyr and situations where one package can be utilized more efficiently over the other as well as how to rely on both packages within a single analysis.
