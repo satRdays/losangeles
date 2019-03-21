@@ -7,7 +7,7 @@ R for teaching ecology | Gaurav Kandlikar | [>](#R-for-teaching-ecology)
 Integrating R and Google Drive or Collaborative Research | Hannah Rempel | [>](#Integrating-R-and-Google-Drive-or-Collaborative-Research)
 Physical Culture and Working Memory | Michael Espero | [>](#Physical-Culture-and-Working-Memory)
 Computing information criteria for multilevel models using different sample sizes | Wendy Christensen | [>](#Computing-information-criteria-for-multilevel-models-using-different-sample-sizes)
-How R-Maps Showed an Old Industry a New Route | Yujia Guan, Amar Natt, PhD | [>](How-\\-R-Maps-Showed-an-Old-Industry-a-New-Route)
+How R-Maps Showed an Old Industry a New Route | Yujia Guan, Amar Natt, PhD | [>](How-R-Maps-Showed-an-Old-Industry-a-New-Route)
 ---
 
 ## A Tidy Analysis of LAX Holiday Traffic Using Twitter and R
