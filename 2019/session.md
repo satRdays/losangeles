@@ -6,10 +6,10 @@ Using Data Science to solve Platform Problems at TrueCar | Rachel Shuyan Wang | 
 Productionizing R scripts in the cloud | Gergely Daróczi | [>](#Productionizing-R-scripts-in-the-cloud)
 Better Research Planning Through Simulation | Neal Fultz | [>](#Better-Research-Planning-Through-Simulation)
 Performing Data Science: A Musician's Perspective | Leondra James | [>](#Performing-Data-Science:-A-Musician's-Perspective)
-Future: Friendly Parallel and Distributed Processing in R for Everyone | Henrik Bengtsson | [>](#Future\:-Friendly-Parallel-and-Distributed-Processing-in-R-for-Everyone)
+Future: Friendly Parallel and Distributed Processing in R for Everyone | Henrik Bengtsson | [>](#Future-Friendly-Parallel-and-Distributed-Processing-in-R-for-Everyone)
 From correlation to causation: measuring ad effectiveness at scale | Tamara Greasby | [>](#From-correlation-to-causation:-measuring-ad-effectiveness-at-scale)
-Multiple Response (Multivariate) Regression models in R | Cesar Acosta-Mejia | [>](#Multiple-Response-\(Multivariate\)-Regression-models-in-R)
-Pipes or Brackets: The Similarities and Differences between Dplyr and Data.Table and the Power of Un | Jeremy Guinta, Amy Linehan | [>](#Pipes-or-Brackets:-The-Similarities-and-Differences-between-Dplyr-and-Data.Table-and-the-Power-of-Un)
+Multiple Response (Multivariate) Regression models in R | Cesar Acosta-Mejia | [>](#Multiple-Response-Multivariate-Regression-models-in-R)
+Pipes or Brackets: The Similarities and Differences between Dplyr and Data.Table and the Power of Un | Jeremy Guinta, Amy Linehan | [>](#Pipes-or-Brackets-The-Similarities-and-Differences-between-Dplyr-and-Data.Table-and-the-Power-of-Un)
 ---
 
 ## Using Data Science to solve Platform Problems at TrueCar
