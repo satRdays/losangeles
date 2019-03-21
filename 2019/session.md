@@ -7,7 +7,7 @@ Productionizing R scripts in the cloud | Gergely Daróczi | [>](#Productionizing
 Better Research Planning Through Simulation | Neal Fultz | [>](#Better-Research-Planning-Through-Simulation)
 Performing Data Science: A Musician's Perspective | Leondra James | [>](#Performing-Data-Science-A-Musicians-Perspective)
 Future: Friendly Parallel and Distributed Processing in R for Everyone | Henrik Bengtsson | [>](#Future-Friendly-Parallel-and-Distributed-Processing-in-R-for-Everyone)
-From correlation to causation: measuring ad effectiveness at scale | Tamara Greasby | [>](#From-correlation-to-causation:-measuring-ad-effectiveness-at-scale)
+From correlation to causation: measuring ad effectiveness at scale | Tamara Greasby | [>](#From-correlation-to-causation-measuring-ad-effectiveness-at-scale)
 Multiple Response (Multivariate) Regression models in R | Cesar Acosta-Mejia | [>](#Multiple-Response-Multivariate-Regression-models-in-R)
 Pipes or Brackets: The Similarities and Differences between Dplyr and Data.Table and the Power of Un | Jeremy Guinta, Amy Linehan | [>](#Pipes-or-Brackets-The-Similarities-and-Differences-between-Dplyr-and-DataTable-and-the-Power-of-Un)
 ---
