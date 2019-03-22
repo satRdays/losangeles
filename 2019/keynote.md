@@ -2,14 +2,14 @@
 
 Keynote | Speaker | More info
 ------------------------------------|------------------------|--------
-TBD | Norm Matloff | [>](#keynote-title-tbd)
+Lifting the Curtain on Machine Learning | Norm Matloff | [>](#Lifting-the-Curtain-on-Machine-Learning)
 Scalable Automatic Machine Learning with H2O | Erin LeDell | [>](#Scalable-Automatic-Machine-Learning-with-H2O)
 ---
 
-## Keynote Title TBD
+## Lifting the Curtain on Machine Learning
 #### Norm Matloff
 ##### CS Prof, UC Davis
-TBD
+I will present two R packages, polyreg and prVis, that are aimed at taking a questioning look at some machine learning (ML) methods -- why do they work (when they do), and can we develop simpler methods that are just as effective if not more so?  No prior background in ML will be assumed.
 
 ## Scalable Automatic Machine Learning with H2O
 #### Erin LeDell
