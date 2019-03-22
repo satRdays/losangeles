@@ -11,7 +11,15 @@ Text Classification in tidymodels | Emil Hvitfeldt | [>](#Text-Classification-in
 ## Building an R Package in 45 Minutes
 #### David Edison
 ##### Data Scientist - Nordstrom
-This session will be a live-coding session using the usethis package to build a fully functional R package from scratch. The content of the package will be a few toy functions, some sample data, and potentially (time-permitting) some simple tests using testthat. During the demo I will give some background about the various directories / files necessary for an R package as well as some other tips and tricks that RStudio provides to make building an R package as easy as possible. At the end of the talk I will point listeners towards further readings such as the [usethis documentation](https://usethis.r-lib.org/), [R packages by Hadley Wickham]( http://r-pkgs.had.co.nz/) and [Writing R Extensions by the R Core Team](https://cran.r-project.org/doc/manuals/r-release/R-exts.html).
+This session will be a live-coding session using the `usethis` and `devtools` packages to build a fully functional R package from scratch. The content of the package will be a simple toy function, some sample data, and some tests using `testthat`. Additionally, this workshop will cover some background about the various directories / files necessary for an R package, as well as some other tips and tricks that RStudio provides to make building an R package as easy as possible.
+
+In order to ensure the workshop goes as smoothly as possible, it is recommended to install the R packages `usethis`, `devtools`, `crayon`, and `clisymbols` (all of which are available on CRAN) prior to the start of the session.
+
+Recommended Reading:
+
+* [usethis Documentation by Hadley Wickham / Jenny Bryan](https://usethis.r-lib.org/)
+* [R Packages by Hadley Wickham]( http://r-pkgs.had.co.nz/) 
+* [Writing R Extensions by the R Core Team](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
 
 ## Predictive Analytics in R and Prediction Error
 #### Alfonso Berumen
