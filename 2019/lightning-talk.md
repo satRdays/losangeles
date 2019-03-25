@@ -39,6 +39,7 @@ This 5-minute lightning talk will be a blitz through recent literature and an R 
 ##### University of California, Los Angeles
 Multilevel models are a popular choice for researchers seeking to model clustered data. Likelihood ratio tests are used to select among nested multilevel models, but in the case of non-nested models, information criteria are a viable alternative method of model selection. There are many information criteria available, which are often described as being either asymptotically efficient (e.g. AIC, AICC) or asymptotically consistent (e.g. BIC, CAIC). The formulae for these information criteria differ, but the model-specific inputs are the same across criteria. These include the model’s deviance, the number of estimated parameters, and, for criteria that are sample size-dependent, the sample size. In the context of multilevel modeling, there are two valid sample sizes: the total number of observations (N) and the number of clusters (m). Statistical software packages used for multilevel modeling, including R packages like lme4 and nlme, usually provide information criteria computed based on one of the valid sample sizes. In this talk, I will demonstrate how to use R to compute information criteria for multilevel models using either N or m as the sample size. 
 
+
 ## How R-Maps Showed an Old Industry a New Route
 #### Yujia Guan, Amar Natt, PhD
 ##### Econ One Research
