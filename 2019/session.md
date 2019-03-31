@@ -8,7 +8,7 @@ Better Research Planning Through Simulation | Neal Fultz | [>](#Better-Research-
 Performing Data Science: A Musician's Perspective | Leondra James | [>](#Performing-Data-Science-A-Musicians-Perspective)
 Future: Friendly Parallel and Distributed Processing in R for Everyone | Henrik Bengtsson | [>](#Future-Friendly-Parallel-and-Distributed-Processing-in-R-for-Everyone)
 From correlation to causation: measuring ad effectiveness at scale | Tamara Greasby | [>](#From-correlation-to-causation-measuring-ad-effectiveness-at-scale)
-Multiple Response (Multivariate) Regression models in R | Cesar Acosta-Mejia | [>](#Multiple-Response-Multivariate-Regression-models-in-R)
+Multiple Response (Multivariate) Regression models in R | Cesar Acosta-Mejia, Qile Wang | [>](#Multiple-Response-Multivariate-Regression-models-in-R)
 Pipes or Brackets: The Similarities and Differences between Dplyr and Data.Table and the Power of Un | Jeremy Guinta, Amy Linehan | [>](#Pipes-or-Brackets-The-Similarities-and-Differences-between-Dplyr-and-DataTable-and-the-Power-of-Un)
 ---
 
@@ -81,8 +81,8 @@ Everyone has had that one ad for that one pair of shoes follow them everywhere t
 The Tidyverse aims to provide an interface for data analysis that abstracts away complexity as much as possible. In my talk, I will discuss how Shiny fits into the Tidyverse framework. I will go into detail about the significance of abstraction in the Tidyverse, and how Shiny provides additional abstractions. My hope is that this talk will deepen attendees understanding of the Tidyverse, while providing practical applications of Shiny.
 
 ## Multiple Response (Multivariate) Regression models in R
-#### Cesar Acosta-Mejia
-##### Faculty member, Department of Industrial and Systems Engineering at USC
+#### Cesar Acosta-Mejia, Qile Wang
+##### Faculty members, Department of Industrial and Systems Engineering at USC
 In many applications, several responses are of interest. 
 For example, predicting the sales of substitute goods (the demand of one is linked to that of other goods).
 If predicting the sales of a set of substitutes is of interest, a multiple response regression model may be appropriate.
