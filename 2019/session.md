@@ -15,18 +15,22 @@ Pipes or Brackets: The Similarities and Differences between Dplyr and Data.Table
 ## Using Data Science to solve Platform Problems at TrueCar
 #### Rachel Shuyan Wang
 ##### Data Science Manager at TrueCar
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/02SatRDay-Rachel%20Wang.pdf)
+
 In this talk, Rachel will share her success on using Data Science methodology to solve several problems on the TrueCar platform, and demonstrate how these algorithms have improved user experience, matching efficiency, as well as increased total revenue. The methods and algorithms she has tried range from as simple as binning and linear regression, to as complicated as deep learning and neutral networks. She will discuss how platforms face similar data science problems and how these TrueCar methods can be applied to other platform services. Other than the technology, Rachel will also share her experience working as a business focusing manager coming from an engineering background, and what she has learned along the way.
 
 
 ## Productionizing R scripts in the cloud
 #### Gergely Daróczi
 ##### DataOps at System1
+[Slides](https://daroczig.github.io/slides/2019-04-06_satRday-LA_Productionizing-R-in-the-Cloud/)
 
 One of the greatest strength of R is the ease and speed of developing a prototype (let it be a report or dashboard, a statistical model or rule-based automation to solve a business problem etc), but deploying to production is not a broadly discussed topic despite its importance. This hands-on talk focuses on best practices and actual R packages to help transforming the prototypes developed by business analysts and data scientist into production jobs running in a secured environment that is easy to maintain -- discussing the importance of logging, standardizing code style, source-code versioning, unit and integration tests, securing credentials, effective helper functions to connect to database, open-source and SaaS job schedulers, dockerizing the run environment and scaling infrastructure.
 
 
 ## Better Research Planning Through Simulation
 #### Neal Fultz
+[Slides](https://docs.google.com/presentation/d/1AbxSZv893RUPUb3RWLagn_A-al7VdNk0MWOqS_RZiu8/)
 
 Research plans need to specify the population of interest, a sampling method, an experimental assignment method, and a method to estimate and test parameters of interest. In all but the most simple designs, these steps can interact, unintentionally leading to biased or under-powered studies, and ex-ante diagnostics (such as power calculations) may not have easy, closed form solutions.
 
@@ -45,6 +49,7 @@ The suite of packages allows researchers to mix and match different strategies, 
 ## Performing Data Science: A Musician's Perspective 
 #### Leondra James
 ##### Manager, Analytics & Operations at Saatchi & Saatchi
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/04Performing%20Data%20Science_v3.pdf)
 
 A motivational talk regarding the key to learning data science, geared towards professionals / students with a non-STEM academic background. Told from the perspective of a data analytics professional / data science student with both a liberal arts and business/ analytics background. Highlights the strengths and necessity of performing / liberal arts students and how their skillset can apply to data science and contribute to the field.
 
@@ -52,6 +57,7 @@ A motivational talk regarding the key to learning data science, geared towards p
 ## Future: Friendly Parallel and Distributed Processing in R for Everyone
 #### Henrik Bengtsson
 ##### UCSF, Assoc Prof, CS/Stats, R since 2000
+[Slides](http://jotternotes.com/now/BengtssonH_20190406-SatRdayLA2019/BengtssonH_20190406-SatRdayLA2019.html#1)
 
 In this talk, I'll present the future ecosystem, which provides a simple, unified framework for parallel and distributed processing in R. It allows you to "write parallel code once" regardless of the operating system and compute environment.
 
@@ -73,16 +79,22 @@ Keywords: parallel processing, distributed processes, compute cluster, high-perf
 ## From correlation to causation: measuring ad effectiveness at scale
 #### Tamara Greasby
 ##### Director of Data Science @ The Trade Desk
+Slides (Please contact Tamara directly)
+
 Everyone has had that one ad for that one pair of shoes follow them everywhere they go on the internet. Why does that happen? Especially if you already bought the shoes?! To make sense of this, it's worth understanding how marketers have historically measured ad effectiveness -- and why the problem is harder than it seems. After an overview of some of commonly used methods, I'll walk through how we've approached the problem at The Trade Desk including how we use R to complement our production systems.
 
 ## Shiny: A GUI for the Tidyverse
 #### Carl Ganz
 ##### CTO Good Tree
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/06carl-Presentation.html)
+
 The Tidyverse aims to provide an interface for data analysis that abstracts away complexity as much as possible. In my talk, I will discuss how Shiny fits into the Tidyverse framework. I will go into detail about the significance of abstraction in the Tidyverse, and how Shiny provides additional abstractions. My hope is that this talk will deepen attendees understanding of the Tidyverse, while providing practical applications of Shiny.
 
 ## Multiple Response (Multivariate) Regression models in R
 #### Cesar Acosta-Mejia, Qile Wang
 ##### Faculty members, Department of Industrial and Systems Engineering at USC
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/10-Multiple%20Response%20-%20Acosta-Mejia%20_%20Wang.pdf)
+
 In many applications, several responses are of interest. 
 For example, predicting the sales of substitute goods (the demand of one is linked to that of other goods).
 If predicting the sales of a set of substitutes is of interest, a multiple response regression model may be appropriate.
@@ -113,6 +125,8 @@ In this example, we use data visualization to show how the responses are related
 ##### Data Scientist; Litigation Consultant; Statistical Expert at Ankura Consulting
 #### Amy Linehan
 ##### Associate at Ankura Consulting
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/09-20190406_SatRday_DataTablevDplyr_final.pdf)
+
 In the world of R programming, dplyr consistently emerges as a popular, successful and common way of coding for both new and experienced R programmers. Neat, organized and versatile, dplyr provides anyone from a beginning programmer to an advanced professional a wide range of functionality to organize, clean, and analyze data. However, at times, especially if working with data containing millions of observations, there is another alternative to dplyr. Providing many of the same benefits as dplyr, data.table is also consistently a faster, more memory efficient and compact way of programming in the R language. Many experienced R programmers rely on either dplyr or data.table to advance and improve their analyses over base R. However, understanding and using the packages interchangeably, together and understanding when an analysis calls for one package over the other enables programmers to take their work to the next level. Using both dplyr and data.table in a career, project, or even together in a single script provides numerous opportunities for more efficient, clean and organized analyses. Learn from industry experts the pros and cons of both data.table and dplyr and situations where one package can be utilized more efficiently over the other as well as how to rely on both packages within a single analysis.
 Beginning with an introduction to both packages, this presentation will delve into the basic syntax, use, and functions in both dplyr and data.table. This presentation is geared towards any programmer – from beginner just introducing themselves to R to professionals who are interested in diversifying their code to address and solve different problems. The introduction to both packages will be robust and thorough, providing even a programmer without experience in either package the ability to follow along and understand. After an introduction to each package, the presentation will address the strong pros and cons for dplyr and data.table and compare the two. Specifically, the presentation will focus on the differences between speed, syntax, memory, joins and the use of date fields between the packages. The presentation will highlight situations in which one package triumphs as well as how to incorporate both packages smoothly within an analysis.
 Led by industry experts who use both packages in real world data analysis, this presentation will rely on real-world examples and data to illustrate the advantages and disadvantages of each package.Additional examples will highlight how to address the same situation or analysis two different ways: in dplyr and in data.table. 
