@@ -24,6 +24,7 @@ Recommended Reading:
 ## Predictive Analytics in R and Prediction Error
 #### Alfonso Berumen
 ##### UCLAx Data Science Instructor & Independent Consultant
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/11Workshops/10-02Facebook_metrics.pdf)
 
 This session will cover the basics of conducting Predictive Analytics in R. The presenter will cover the basis of training/test partitions, evaluation of models, and measurement of prediction error. The presenter will use a case study approach to demonstrate why measurement of error is important when conducting Predictive Analytics. The presenter will ask students/attendees to consider not just error in the classical sense of the difference between predicted and actual values but also error in the context of the problem (i.e., dollars, number of people, or other units/quantities related to what is being modeled).
 
