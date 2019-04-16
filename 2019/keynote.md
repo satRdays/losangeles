@@ -9,7 +9,9 @@ Scalable Automatic Machine Learning with H2O | Erin LeDell | [>](#Scalable-Autom
 ## Lifting the Curtain on Machine Learning
 #### Norm Matloff
 ##### CS Prof, UC Davis
-[Slides](http://heather.cs.ucdavis.edu/satrday.pdf)
+
+[Slides](http://heather.cs.ucdavis.edu/satrday.pdf) |
+[Video](https://youtu.be/sBSHm2a8Llc)
 
 I will present two R packages, polyreg and prVis, that are aimed at taking a questioning look at some machine learning (ML) methods -- why do they work (when they do), and can we develop simpler methods that are just as effective if not more so?  No prior background in ML will be assumed.
 
