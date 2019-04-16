@@ -58,7 +58,8 @@ A motivational talk regarding the key to learning data science, geared towards p
 ## Future: Friendly Parallel and Distributed Processing in R for Everyone
 #### Henrik Bengtsson
 ##### UCSF, Assoc Prof, CS/Stats, R since 2000
-[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/05BengtssonH_20190406-SatRdayLA2019%2Cflat.pdf)
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/05BengtssonH_20190406-SatRdayLA2019%2Cflat.pdf) | 
+[Video](https://youtu.be/KP3pgLfKr00)
 
 In this talk, I'll present the future ecosystem, which provides a simple, unified framework for parallel and distributed processing in R. It allows you to "write parallel code once" regardless of the operating system and compute environment.
 
