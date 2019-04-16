@@ -31,7 +31,8 @@ One of the greatest strength of R is the ease and speed of developing a prototyp
 
 ## Better Research Planning Through Simulation
 #### Neal Fultz
-[Slides](https://docs.google.com/presentation/d/1AbxSZv893RUPUb3RWLagn_A-al7VdNk0MWOqS_RZiu8/)
+[Slides](https://docs.google.com/presentation/d/1AbxSZv893RUPUb3RWLagn_A-al7VdNk0MWOqS_RZiu8/) | 
+[Video](https://youtu.be/WZLc0bqmOEw)
 
 Research plans need to specify the population of interest, a sampling method, an experimental assignment method, and a method to estimate and test parameters of interest. In all but the most simple designs, these steps can interact, unintentionally leading to biased or under-powered studies, and ex-ante diagnostics (such as power calculations) may not have easy, closed form solutions.
 
@@ -50,7 +51,9 @@ The suite of packages allows researchers to mix and match different strategies, 
 ## Performing Data Science: A Musician's Perspective 
 #### Leondra James
 ##### Manager, Analytics & Operations at Saatchi & Saatchi
-[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/04Performing%20Data%20Science_v3.pdf)
+
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/04Performing%20Data%20Science_v3.pdf) | 
+[Video](https://youtu.be/SqlCW5CbFP8)
 
 A motivational talk regarding the key to learning data science, geared towards professionals / students with a non-STEM academic background. Told from the perspective of a data analytics professional / data science student with both a liberal arts and business/ analytics background. Highlights the strengths and necessity of performing / liberal arts students and how their skillset can apply to data science and contribute to the field.
 
