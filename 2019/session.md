@@ -8,6 +8,7 @@ Better Research Planning Through Simulation | Neal Fultz | [>](#Better-Research-
 Performing Data Science: A Musician's Perspective | Leondra James | [>](#Performing-Data-Science-A-Musicians-Perspective)
 Future: Friendly Parallel and Distributed Processing in R for Everyone | Henrik Bengtsson | [>](#Future-Friendly-Parallel-and-Distributed-Processing-in-R-for-Everyone)
 From correlation to causation: measuring ad effectiveness at scale | Tamara Greasby | [>](#From-correlation-to-causation-measuring-ad-effectiveness-at-scale)
+Shiny: A GUI for the Tidyverse | Carl Ganz | [>](#Shiny-A-GUI-for-the-Tidyverse)
 Multiple Response (Multivariate) Regression models in R | Cesar Acosta-Mejia, Qile Wang | [>](#Multiple-Response-Multivariate-Regression-models-in-R)
 Pipes or Brackets: The Similarities and Differences between Dplyr and Data.Table and the Power of Un | Jeremy Guinta, Amy Linehan | [>](#Pipes-or-Brackets-The-Similarities-and-Differences-between-Dplyr-and-DataTable-and-the-Power-of-Un)
 ---
