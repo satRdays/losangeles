@@ -13,7 +13,8 @@ How R-Maps Showed an Old Industry a New Route | Yujia Guan, Amar Natt, PhD | [>]
 ## A Tidy Analysis of LAX Holiday Traffic Using Twitter and R
 #### Greg Botwin
 ##### Researcher at Cedars-Sinai
-[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/08LightningTalks/01A%20Tidy%20Analysis%20of%20LAX%20Holiday%20Traffic%20Using%20Twitter%20and%20R%20-%20UPDATED.pdf)
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/08LightningTalks/01A%20Tidy%20Analysis%20of%20LAX%20Holiday%20Traffic%20Using%20Twitter%20and%20R%20-%20UPDATED.pdf) | 
+[Video](https://youtu.be/D-MYUGZLrdQ)
 
 Los Angeles’s notorious “soul destroying” traffic reaches peak levels of frustration during the holiday period. From 2018-DEC-19 through 2019-JAN-02, the Los Angeles International Airport (LAX) twitter (@flyLAXairport) account posted hourly traffic updates detailing the time it took to reach Terminal 1 from three common transit routes, and the time necessary to complete one loop on the upper or lower levels. In this talk I will highlight the utility of the rtweet package and the use of tidy data principles with tidyverse tools in performing an exploratory data analysis. I will show the variation in LAX traffic times by route, time, and day during the 2018-2019 holiday season and generate some basic advice on how one can save some time and sanity.
 
