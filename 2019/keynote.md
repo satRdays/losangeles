@@ -16,7 +16,8 @@ I will present two R packages, polyreg and prVis, that are aimed at taking a que
 ## Scalable Automatic Machine Learning with H2O
 #### Erin LeDell
 ##### Chief Machine Learning Scientist at H2O.ai
-[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/07Keynote-ErinLeDell-h2o_automl_satRdays_la_march2019.pdf)
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/07Keynote-ErinLeDell-h2o_automl_satRdays_la_march2019.pdf) | 
+[Video](https://youtu.be/A3EmOgpoG60)
 
 The focus of this presentation is scalable and automatic machine learning using the H2O machine learning platform.  H2O is an open source, distributed machine learning platform designed for big data.  The core machine learning algorithms of H2O are implemented in high-performance Java, however, fully-featured APIs are available in R, Python, Scala, REST/JSON, and also through a web interface. Since H2O's algorithm implementations are distributed, this allows the software to scale to very large datasets that may not fit into RAM on a single machine. H2O currently features distributed implementations of Generalized Linear Models, Gradient Boosting Machines, Random Forest, Deep Neural Nets, Stacked Ensembles (aka "Super Learners"), dimensionality reduction methods (PCA, GLRM), clustering algorithms (K-means), anomaly detection methods, among others.
 
