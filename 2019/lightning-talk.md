@@ -40,7 +40,8 @@ Collaborative research and a move towards reproducible data analysis have become
 ## Physical Culture and Working Memory
 #### Michael Espero
 ##### Certified Data Scientist
-[Slides](https://docs.google.com/presentation/d/1bwYYwOFlvZjyEjNS_yElC3IwulV1AXre0g0l9DdOW2g/)
+[Slides](https://docs.google.com/presentation/d/1bwYYwOFlvZjyEjNS_yElC3IwulV1AXre0g0l9DdOW2g/) | 
+[Video](https://youtu.be/xu6hFpLji0U)
 
 This 5-minute lightning talk will be a blitz through recent literature and an R workflow conducting the wrangling, summary, visualization, and statistical testing of a small sample of experimental data.
 
