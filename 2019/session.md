@@ -80,7 +80,8 @@ Keywords: parallel processing, distributed processes, compute cluster, high-perf
 ## From correlation to causation: measuring ad effectiveness at scale
 #### Tamara Greasby
 ##### Director of Data Science @ The Trade Desk
-Slides (Please contact Tamara directly)
+Slides (Please contact Tamara directly) | 
+[Video](https://youtu.be/PzHzFJ9DfI8)
 
 Everyone has had that one ad for that one pair of shoes follow them everywhere they go on the internet. Why does that happen? Especially if you already bought the shoes?! To make sense of this, it's worth understanding how marketers have historically measured ad effectiveness -- and why the problem is harder than it seems. After an overview of some of commonly used methods, I'll walk through how we've approached the problem at The Trade Desk including how we use R to complement our production systems.
 
