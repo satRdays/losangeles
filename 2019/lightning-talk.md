@@ -22,7 +22,9 @@ Los Angeles’s notorious “soul destroying” traffic reaches peak levels of f
 ## R for teaching ecology
 #### Gaurav Kandlikar
 ##### PhD Candidate, UCLA Department of Ecology and Evolutionary Biology
-[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/08LightningTalks/02gkandlikar-r-for-teaching-ecology.pdf)
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/08LightningTalks/02gkandlikar-r-for-teaching-ecology.pdf) | 
+[Video](https://youtu.be/9J8sjgpVk-E)
+
 Introductory undergraduate ecology courses often introduce students to population dynamics models which track, for example, the dynamics of competing species in natural systems. Students in these classes generally have a background in biology and limited exposure to mathematical or statistical thinking. This can make it difficult for students to learn the lessons from population dynamics models or to analyze complex ecological data. Here, I will present a set of basic Shiny apps that help convey these ecological models, and also present a Shiny app designed to help students interactively analyze data from environmental DNA sequencing studies.
 
 
