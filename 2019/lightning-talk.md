@@ -31,7 +31,9 @@ Introductory undergraduate ecology courses often introduce students to populatio
 ## Integrating R and Google Drive or Collaborative Research
 #### Hannah Rempel
 ##### M.S. Student, Biological Sciences, Cal Poly
-[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/08LightningTalks/03HRempel_SatRdaysLALightingTalk_RandGDrive.pdf)
+
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/08LightningTalks/03HRempel_SatRdaysLALightingTalk_RandGDrive.pdf) | [Video](https://youtu.be/xDi_hLfjX2k)
+
 Collaborative research and a move towards reproducible data analysis have become increasingly prevalent not only in data science but also biological and social sciences. However, knowing how to use and integrate these resources can be daunting– particularly for those who use statistics and R in collaborative research but are not statisticians. How do you manage projects with data that span across years, locations and with collaborators varying in knowledge of R and data management practices? How do you maintain consistent entry, documentation and version control of data and scripts modified by multiple people across years? In this talk, I discuss how to interweave R and Google Drive. Google Drive is familiar, free and accessible to everyone– including for those not versed in R or Git. Google Docs allows clear documentation of data and scripts with readily navigable links. Google Sheets facilitates data entry by multiple users, with validation and column/sheet protection to manage data upstream before reading and cleaning sheets in R. I will share my experiences and tips from working with 15+ undergraduates and researchers from other institutes on a project spanning 5+ years.
 
 
