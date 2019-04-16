@@ -16,7 +16,9 @@ Pipes or Brackets: The Similarities and Differences between Dplyr and Data.Table
 ## Using Data Science to solve Platform Problems at TrueCar
 #### Rachel Shuyan Wang
 ##### Data Science Manager at TrueCar
-[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/02SatRDay-Rachel%20Wang.pdf)
+
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/02SatRDay-Rachel%20Wang.pdf) |
+[Video](https://youtu.be/vjxocRgqdoE)
 
 In this talk, Rachel will share her success on using Data Science methodology to solve several problems on the TrueCar platform, and demonstrate how these algorithms have improved user experience, matching efficiency, as well as increased total revenue. The methods and algorithms she has tried range from as simple as binning and linear regression, to as complicated as deep learning and neutral networks. She will discuss how platforms face similar data science problems and how these TrueCar methods can be applied to other platform services. Other than the technology, Rachel will also share her experience working as a business focusing manager coming from an engineering background, and what she has learned along the way.
 
@@ -84,6 +86,7 @@ Keywords: parallel processing, distributed processes, compute cluster, high-perf
 ## From correlation to causation: measuring ad effectiveness at scale
 #### Tamara Greasby
 ##### Director of Data Science @ The Trade Desk
+
 Slides (Please contact Tamara directly) | 
 [Video](https://youtu.be/PzHzFJ9DfI8)
 
@@ -92,6 +95,7 @@ Everyone has had that one ad for that one pair of shoes follow them everywhere t
 ## Shiny: A GUI for the Tidyverse
 #### Carl Ganz
 ##### CTO Good Tree
+
 [Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/06carl-Presentation.html) | 
 [Video](https://youtu.be/ywbhFKYQ1ts)
 
@@ -100,6 +104,7 @@ The Tidyverse aims to provide an interface for data analysis that abstracts away
 ## Multiple Response (Multivariate) Regression models in R
 #### Cesar Acosta-Mejia, Qile Wang
 ##### Faculty members, Department of Industrial and Systems Engineering at USC
+
 [Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/10-Multiple%20Response%20-%20Acosta-Mejia%20_%20Wang.pdf)
 
 In many applications, several responses are of interest. 
@@ -132,6 +137,7 @@ In this example, we use data visualization to show how the responses are related
 ##### Data Scientist; Litigation Consultant; Statistical Expert at Ankura Consulting
 #### Amy Linehan
 ##### Associate at Ankura Consulting
+
 [Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/09-20190406_SatRday_DataTablevDplyr_final.pdf) | 
 [Video](https://www.youtube.com/watch?v=HyGG1H0ryfs)
 
