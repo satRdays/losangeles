@@ -87,7 +87,8 @@ Everyone has had that one ad for that one pair of shoes follow them everywhere t
 ## Shiny: A GUI for the Tidyverse
 #### Carl Ganz
 ##### CTO Good Tree
-[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/06carl-Presentation.html)
+[Slides](https://github.com/satRdays/losangeles/blob/master/2019/slides/06carl-Presentation.html) | 
+[Video](https://youtu.be/ywbhFKYQ1ts)
 
 The Tidyverse aims to provide an interface for data analysis that abstracts away complexity as much as possible. In my talk, I will discuss how Shiny fits into the Tidyverse framework. I will go into detail about the significance of abstraction in the Tidyverse, and how Shiny provides additional abstractions. My hope is that this talk will deepen attendees understanding of the Tidyverse, while providing practical applications of Shiny.
 
