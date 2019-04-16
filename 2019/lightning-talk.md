@@ -58,6 +58,7 @@ Multilevel models are a popular choice for researchers seeking to model clustere
 ## How R-Maps Showed an Old Industry a New Route
 #### Yujia Guan, Amar Natt, PhD
 ##### Econ One Research
-[Slides](http://rpubs.com/Yujia/483519)
+[Slides](http://rpubs.com/Yujia/483519) | 
+[Video](https://youtu.be/VrdFfCNC46w)
 
 Economic consulting for litigation is a conservative industry. Analysis tools are dominated by Stata and SAS, while new software tools are widely regarded with suspicion. There is little will for innovation. A senior economist’s desire for attractive maps to be used in a large price-fixing case created an opportunity to introduce R as a powerful open-source alternative to traditional statistical tools: models and maps! The sophisticated story-telling power and captivating outlook delivered by R maps induced further interest from leadership regarding the advantages and capabilities of R. This small point of entry has slowly stirred a tide of change in a very entrenched industry.
