@@ -28,7 +28,7 @@ In this talk, Rachel will share her success on using Data Science methodology to
 ##### DataOps at System1
 
 [Slides](https://daroczig.github.io/slides/2019-04-06_satRday-LA_Productionizing-R-in-the-Cloud/) | 
-[Video](https://youtu.be/i6NxUWHxI38)
+[Video](https://youtu.be/h-Cj9X2amA0)
 
 One of the greatest strength of R is the ease and speed of developing a prototype (let it be a report or dashboard, a statistical model or rule-based automation to solve a business problem etc), but deploying to production is not a broadly discussed topic despite its importance. This hands-on talk focuses on best practices and actual R packages to help transforming the prototypes developed by business analysts and data scientist into production jobs running in a secured environment that is easy to maintain -- discussing the importance of logging, standardizing code style, source-code versioning, unit and integration tests, securing credentials, effective helper functions to connect to database, open-source and SaaS job schedulers, dockerizing the run environment and scaling infrastructure.
 
